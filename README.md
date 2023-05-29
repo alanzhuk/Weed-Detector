@@ -1,0 +1,2 @@
+This was a capstone project for my engineering class. During this project I worked with a partner on any project we wanted. We decided to make a machine learning algorithm that could detect weeds for agricultural uses such as attaching to a drone or tractor to increase the efficiency of de-weeding a field. We managed to find several training sets filled with pictures of weeds for out algorithms such as the deep weeds dataset
+
